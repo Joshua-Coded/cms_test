@@ -1,6 +1,7 @@
 package com.alana.cms.domain.resources;
 
 import com.alana.cms.domain.models.User;
+import com.alana.cms.domain.vo.UserRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
